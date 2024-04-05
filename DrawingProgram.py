@@ -1,5 +1,6 @@
+#created by Izzie Corley as part of CS 200 Junior IS, March/April 2024
 
-#changes from v1:
+#changes from first deliverable during IS proposal:
 #editable image
 #adds dot for each movement while button1 is down
 #custom hue, sat, & val instead of just size
